@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "981313773355",
+    "project_id": "elux-flutter",
+    "storage_bucket": "elux-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981313773355:android:f9c5960fedfbf91e5cef6e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_elux_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981313773355-o59r2o1nqdjidr5mrf1otjs54utahbui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_elux_app",
+            "certificate_hash": "8ca62d8ced7505504a806283140b8cfab80d84f1"
+          }
+        },
+        {
+          "client_id": "981313773355-26sll8fop199anmds0c8rbipebul10f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt2e8tq6tb0jhkP_i9OjuVowZyi632Spw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981313773355-26sll8fop199anmds0c8rbipebul10f7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "981313773355-q6h6q93ct9akglrjq9i1vu497bbebcr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterEluxApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
